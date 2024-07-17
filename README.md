@@ -18,3 +18,4 @@ I graduated in May 2023 from Rutgers University in New Jersey with a Bachelor's 
     - Developed web-based components using Razor in ASP.NET and utilized internal APIs to pull binning data from databases to generate output for wafer verification.
     
 
+## Skills 
