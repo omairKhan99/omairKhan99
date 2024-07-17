@@ -11,10 +11,10 @@ I graduated in May 2023 from Rutgers University in New New Jersey with a Bachelo
 ### Product Development Engineer, Intel Corporation 
 > August 2023 – Present (Chandler, AZ)
 - Designed and implemented automation tools to streamline test program workflows, reducing processing time by 90%.
-  - Wrote SQL queries to pull the test program information for reading various data formats (single lots, multiple lots, single/multiple test programs), significantly speeding up analysis times.
+    - Wrote SQL queries to pull the test program information for reading various data formats (single lots, multiple lots, single/multiple test programs), significantly speeding up analysis times.
 -	Optimized analysis models by cleaning and flattening data leading to faster analysis.
-  - Used JMP and C# scripts to automate the data cleanup.
+    - Used JMP and C# scripts to automate the data cleanup.
 -	Enhanced data handling and output generation by incorporating web technologies and APIs.
-  - Developed web-based components using Razor in ASP.NET and utilized internal APIs to pull binning data from databases to generate output for wafer verification.
+    - Developed web-based components using Razor in ASP.NET and utilized internal APIs to pull binning data from databases to generate output for wafer verification.
     
 
