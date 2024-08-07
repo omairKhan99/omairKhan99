@@ -17,12 +17,17 @@ I graduated in May 2023 from Rutgers University in New Jersey with a Bachelor's 
 -	Enhanced data handling and output generation by incorporating web technologies and APIs.
     - Developed web-based components using Razor in ASP.NET and utilized internal APIs to pull binning data from databases to generate output for wafer verification.
 
-### Software Engineer Intern, Intel 
+### Product Development Engineer Intern, Intel 
 > September 2022 – December 2022 (called for internship extension and job offer) 
 - Designed and implemented a scalable architecture for identifying locked patterns for an internal application.
 - Developed an efficient verification model for locked patterns, ensuring the suitability of the validation process.
 - Automated identification of valid paths to enhance the efficiency of the test program workflow.
 
-    
+### Product Development Engineer Intern, Intel    
+> May 2022 – August 2022
+- Developed several C# scripts to optimize the modification process of the build automation platform 
+- Executed Test Rule Checks (TRCs) to validate the Test Program syntax, improving test coverage by 10%
+- Implemented unit tests to verify product functionality, identifying and resolving issues early in the development cycle
+- Owned the full Product Development Lifecycle with mentorship from the team
 
 ## Skills 
