@@ -19,7 +19,7 @@ To further my interest in software development, I'll be starting my Master’s i
 -	Enhanced data handling and output generation by incorporating web technologies and APIs.
     - Developed web-based components using Razor in ASP.NET and utilized internal APIs to pull binning data from databases to generate output for wafer verification.
 
-### Product Development Engineer Intern, Intel 
+### Software Engineer Intern, Intel 
 > September 2022 – December 2022 (called for internship extension and job offer) 
 - Designed and implemented a scalable architecture for identifying locked patterns for an internal application.
 - Developed an efficient verification model for locked patterns, ensuring the suitability of the validation process.
@@ -53,3 +53,5 @@ To further my interest in software development, I'll be starting my Master’s i
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omairKhan99&layout=compact)
